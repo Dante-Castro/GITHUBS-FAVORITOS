@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-SPA Universe.
+SPA GITHUB-FAVORITOS.
 
 
 
